@@ -38,8 +38,8 @@ This project is a **Go-based load testing tool** designed to stress-test a priva
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ethereum-load-tester.git
-   cd ethereum-load-tester
+   git clone https://github.com/Redarek/eth-node-load-test.git
+   cd eth-node-load-test
    ```
 
 2. Install dependencies:
@@ -91,7 +91,7 @@ go run main.go
 2. **Requests Per Second (RPS)**:
    - Logs the number of transactions processed per second by each goroutine:
      ```plaintext
-     Requests per second: 150
+     Requests per second: 7
      ```
 
 ---
